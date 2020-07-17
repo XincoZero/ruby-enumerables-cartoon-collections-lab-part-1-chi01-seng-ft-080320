@@ -11,4 +11,5 @@ end
 def list_dwarves(array)
   array.each_with_index do |character, i|
     i = i+1 
+    print 
 end
