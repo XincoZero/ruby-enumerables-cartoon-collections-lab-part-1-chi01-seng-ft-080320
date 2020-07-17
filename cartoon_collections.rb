@@ -9,5 +9,5 @@ end
 
 
 def list_dwarves(array)
-  array.each
+  array.each_with_index
 end
