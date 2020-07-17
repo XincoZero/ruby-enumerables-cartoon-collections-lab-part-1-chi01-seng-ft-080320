@@ -1,5 +1,5 @@
 def greet_characters(array)
-  array.each do |element|
+  array.each do |character|
     puts element
   # Use `each` to enumerate over the provided array
   #
